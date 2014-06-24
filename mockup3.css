@@ -1,0 +1,23 @@
+body { background-color: #2F3ABA;}
+
+h1 { color: white;}
+
+#box {
+    border: 2px solid;
+    background-color: white;
+    height: 200px;
+    width: 150px;
+    float:left;
+    margin: 10px;
+    padding-left: 10px
+}
+
+#return_left {
+    clear: left;
+
+}
+
+button {
+    margin-left: auto;
+    margin-right: auto
+}
