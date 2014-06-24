@@ -1,0 +1,12 @@
+
+#picture_font_color {
+    color: #CC16C9;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+p { text-align: center }
