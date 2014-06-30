@@ -1,0 +1,31 @@
+
+form {
+    color:purple;
+}
+
+h1 { color:darkorange }
+
+.bolded_border {
+    border: 2px solid;
+}
+
+.orange_button {
+    background-color: orange;
+    border: 2px solid;
+}
+
+.pretty_box {
+    border: 2px solid;
+}
+
+
+#header {
+    height: 20px;
+    border: 2px solid;
+    margin-bottom: 10px;
+}
+
+a {
+    text-decoration: none;
+    color:black
+}
